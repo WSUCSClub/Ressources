@@ -23,6 +23,7 @@ A repo where anyone can contributes with the useful ressources that each team ne
 ### Good to know
 ##### ----- More Javascript
 - [You don't know JS](https://github.com/getify/You-Dont-Know-JS) [Detailed Javascript]
+
 ##### ----- Nodejs
 - [Art of Node](https://github.com/maxogden/art-of-node) [Intro]
 - [MEAN](http://meanjs.org/) [Full stack framework]
@@ -34,6 +35,7 @@ A repo where anyone can contributes with the useful ressources that each team ne
 ### Must
 ##### ----- iOS
 - [Apple docs](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/)
+
 ##### ----- Android
 - [Android docs](https://developer.android.com/guide/index.html)
 
